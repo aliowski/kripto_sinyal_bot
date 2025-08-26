@@ -1,6 +1,6 @@
 import telebot
 
-BOT_TOKEN = "BURAYA_BOT_TOKENİNİ_YAPISTIR"
+BOT_TOKEN = "8321829606:AAEEYNdlM3wA5C1Bk0mZ8oiUy4fEawv8nCs"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 @bot.message_handler(commands=["start"])
